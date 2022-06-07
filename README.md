@@ -1,6 +1,6 @@
 
 # Intro To Automation
-The Happy Cars App Modernization Workshop is broken up into multiple phases. You can find each phase in its own branch
+I'm Lazy add info Later
 
 ## Description
 
